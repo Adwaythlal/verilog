@@ -1,0 +1,1 @@
+Implemented the circuit using two intermediate wires to connect the AND and OR gates. The output of the OR gate is connected directly to the NOT gate through out, without declaring an additional wire. Each wire is driven by exactly one source and can feed multiple gate inputs.
